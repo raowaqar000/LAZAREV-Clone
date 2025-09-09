@@ -24,9 +24,6 @@ body {
   overflow-y: auto;
 }
 
-/* #main{
-  position: relative;
-} */
 #cursor {
   width: 24px;
   height: 24px;
